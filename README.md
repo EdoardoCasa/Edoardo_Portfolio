@@ -1,4 +1,4 @@
-# Edoardo_Portfolio
+# Edoardo Portfolio
 Edoardo porjects portfolio
 
 [Progetto 1: Machine Learning Project](https://github.com/EdoardoCasa/machine_learning_pro/blob/main/lav2.ipynb)
