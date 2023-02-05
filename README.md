@@ -10,7 +10,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33,random_
 
 reg = linear_model.Lasso(alpha=0.1)
 
-[Progetto 2: Data science Project](https://github.com/EdoardoCasa/data_science_progect)
+[Progetto 2: Data science Project](https://github.com/EdoardoCasa/data_science_progect/blob/main/progf.ipynb)
 In questo progetto cerco di capire i fattori che influenzano maggiormente i voti finali degli studenti
 
 dl["sex"].value_counts()
