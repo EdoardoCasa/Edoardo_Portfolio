@@ -13,7 +13,7 @@ reg = linear_model.Lasso(alpha=0.1)
 
 [Progetto 2: Data science Project](https://github.com/EdoardoCasa/data_science_progect/blob/main/progf.ipynb)
 
-In questo progetto cerco di capire i fattori che influenzano maggiormente i voti finali degli studenti
+In questo progetto di cerco di capire i fattori che influenzano maggiormente i voti finali degli studenti
 
 dl["sex"].value_counts()
 
