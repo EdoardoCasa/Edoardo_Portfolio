@@ -1,4 +1,6 @@
 # Edoardo_Portfolio
 Edoardo Portfolio progect
 
-[Progetto 1: In questo progetto creo un modello di machine learning](https://github.com/EdoardoCasa/machine_learning_pro)
+[Progetto 1: Machine Learning Project](https://github.com/EdoardoCasa/machine_learning_pro)
+
+[Progetto 2: Data science Project](https://github.com/EdoardoCasa/data_science_progect)
