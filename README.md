@@ -1,3 +1,4 @@
 # Edoardo_Portfolio
 Edoardo Portfolio progect
-nnvnvcmm         n,c,zmcdjd
+
+Progetto 1: In questo progetto creo un modello di machine learning
