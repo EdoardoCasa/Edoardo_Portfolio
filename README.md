@@ -18,4 +18,5 @@ dl["sex"].value_counts()
 sns.histplot(dl.age,kde=True, bins=8, discrete=True)
 
 plt.title("distribuzione dell'età")
+
 ![](https://github.com/EdoardoCasa/Edoardo_Portfolio/blob/main/immagini/images.png)
