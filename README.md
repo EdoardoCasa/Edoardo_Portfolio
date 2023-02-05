@@ -23,4 +23,3 @@ plt.title("distribuzione dell'età")
 
 ![](https://github.com/EdoardoCasa/Edoardo_Portfolio/blob/main/immagini/images.png)
 
-theme: minima
