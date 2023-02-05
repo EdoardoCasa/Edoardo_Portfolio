@@ -1,5 +1,5 @@
 # Edoardo_Portfolio
-Edoardo porject portfolio
+Edoardo porjects portfolio
 
 [Progetto 1 Machine Learning Project:](https://github.com/EdoardoCasa/machine_learning_pro/blob/main/lav2.ipynb)
 In questo progetto di machine learning creo un modello in grado di prevedere il livello di progressione del diabete
